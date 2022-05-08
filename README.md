@@ -10,7 +10,7 @@ O programa foi desenvolvido no Eclipse IDE, na versão Java Developers de 2022-0
 **JRE** 17.0.2
 
 ## Execução
-Baixando o projeto, basta abri-lo na IDE e executar o build.
+Baixando o projeto, basta abri-lo na IDE na opção *Open Projects From File System* e executar o build.
 O programa foi desenvolvido para ser executado no console.
 
 Nele aparecerá um menu com todos os desafios propostos, basta selecionar o desafio com as opções numéricas, inserir as informações que estão sendo solicitadas e visualizar os resultados.
